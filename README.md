@@ -48,4 +48,5 @@ Based on the uncovered insights the following reccomendations have been provided
 
 
 ## Caveats and Assumption
-  - In this Data set 
+  - In this analysis i would like to note that the data set was not all pure and perfect, they were a lot of missing and void rows in the dataset which i just had to remove and bypass as this is one of the steps in the cleaning stage of the data analytics process.
+  - Also this data set had a few misplaced data, i.e in some rows, they were some mixed-up data, i just had to use my domain-knowledge in the field of business and my foundational knowledge in data analytics ethics, and it was all good.
