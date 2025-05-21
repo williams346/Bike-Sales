@@ -30,7 +30,7 @@ After the different steps taken in this analysis in order to solve the business 
 
 Above is an interactive visualization with key point indicators (KPI's) showing the amounts of bikes sold and the comparism was split into three categories which are INCOME, COMMUTE DISTANCE and AGE BRACKETS.
 
-## Reccomenadations.
+## Reccomendations.
 
 Based on the uncovered insights the following reccomendations have been provided:
 
