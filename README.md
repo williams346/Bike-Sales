@@ -1,4 +1,4 @@
-# Bike-Sales Dashboard
+# Bike-Sales Analysis
 ## Project-Background
 Our bike sales company needed more customers to buy more bikes, so we conducted an analysis to create insights on how to get more customers to buy bikes, and also methods to improve our services.
 
